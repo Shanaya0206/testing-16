@@ -1,22 +1,4 @@
 "# testing-16" 
-Introduction to Mobile Application Development: Assignment 1 
-
-Table of Contents  
-
-Introduction………………………………………………………………………………..2 
-
-Purpose of the Application…………………………………………………………….2 
-
-The Design Considerations…………………………………………………………….2 
-
-The Utilization of GitHub and GitHub Actions…………………………………..3 
-
-Images and Screenshots of the Application and YouTube link for my Application…………………………………………………………………………………3-5 
-
-References ………………………………………………………………………………..6 
-
- 
-
 Introduction  
 
 I have created a Native android application on Android Studio using the language Kotlin to create a solution to the scenario given. The application will make use of if statements. An if statement is an important control structure in programming that enables you to implement code blocks based on whether a condition is true or false and is utilized to make decisions and control the overall execution of your program. This application will also make use of the comments to provide explanations for the source code to guide and assist humans in understanding the code and make it easier to maintain. I have also mentioned the design process and the use of GitHub. I have also included screenshots of my code and included the emulator that shows you how my application runs.  
@@ -44,7 +26,9 @@ The Utilization of GitHub and GitHub Actions
 GitHub is a remarkable tool for developers to collaborate effectively, maintain version control, and even showcase their work to a wider community. It is a combination of Gits capabilities and GitHub’s intuitive truly empowers teams to work on their projects with precise and synergy. Due to Git Hub's capabilities, I am required to use it to conduct manual testing to ensure the app functions seamlessly.  
 
 GitHub Link: 
-https://github.com/Shanaya0206/testing-16/edit/main/README.md
+
+ 
+
  
 
  
@@ -60,5 +44,35 @@ Images and Screenshots from My Application and the link to my YouTube Video
 A computer screen with white text
 
 AI-generated content may be incorrect. 
+
+ 
+
+A computer screen with text on it
+
+AI-generated content may be incorrect. 
+
+A computer screen with text on it
+
+AI-generated content may be incorrect.[Text Wrapping Break] 
+
+A screen shot of a cell phone
+
+AI-generated content may be incorrect. 
+
+ 
+
+My YouTube Link: https://youtu.be/j0BmNf-zhMA?si=fQqSN9wRitOyS3-g 
+
+References  
+
+Coursera, 2025. What is GitHub and Why Should You Use It?.9 March 2025 
+
+             (Accessed 26 March 2025) 
+
+The Independent Institute of Education (IIE),2025, IMAD5112 Module Manual Available at: 
+
+(https://advtechonline.sharepoint.com/sites/TertiaryStudents/IIE%20Student%20Materials/Forms/Default%20View.aspx?id=%2Fsites%2FTertiaryStudents%2FIIE%20Student%20Materials%2FNew%20Student%20Materials%20CAT%2FIMAD5112%2F2025%2FTerm%201&viewid=db15e059%2D4f93%2D487f%2Dabda%2De538b821c7b8) 
+
+ 
 
  
